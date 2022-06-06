@@ -1,0 +1,10 @@
+cradle:
+  cabal:
+    - path: "./src/lecture03/choice-if.hs"
+      component: "exr:choice-if"
+    - path: "./src/lecture03/choice-if-let.hs"
+      component: "exr:choice-if-let"
+    - path: "./src/lecture03/simple-payment-close.hs"
+      component: "exr:simple-payment-close"
+    - path: "./src/lecture03/simple-payment-pay.hs"
+      component: "exr:simple-payment-pay"
