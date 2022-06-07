@@ -30,7 +30,7 @@ executable choice-if-let
 
 executable double-pay
   default-language: Haskell2010
-  hs-source-dirs:   src/lecture03
+  hs-source-dirs:   src/lecture04
   main-is:          double-pay.hs
   ghc-options:      -Wall
 
@@ -40,8 +40,18 @@ executable double-pay
 
 executable double-pay-refactored
   default-language: Haskell2010
-  hs-source-dirs:   src/lecture03
+  hs-source-dirs:   src/lecture04
   main-is:          double-pay-refactored.hs
+  ghc-options:      -Wall
+
+  build-depends:
+    , base ^>=4.14.3.0
+    , marlowe
+
+executable multi-pay
+  default-language: Haskell2010
+  hs-source-dirs:   src/lecture04
+  main-is:          multi-pay.hs
   ghc-options:      -Wall
 
   build-depends:

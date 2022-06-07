@@ -8,6 +8,8 @@ cradle:
       component: "exe:double-pay"
     - path: "./src/lecture03/double-pay-refactored.hs"
       component: "exe:double-pay-refactored"
+    - path: "./src/lecture03/multi-pay.hs"
+      component: "exe:multi-pay"
     - path: "./src/lecture03/simple-payment-close.hs"
       component: "exe:simple-payment-close"
     - path: "./src/lecture03/simple-payment-pay.hs"
