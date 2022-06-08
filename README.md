@@ -16,3 +16,7 @@
 - To build all examples, do `cabal build`. This will take a while the first time you do it!
 - To run an individual example, use `cabal run`. For example: `cabal run simple-payment-pay`.
 - To interact with an individual example in the Repl, use `cabal repl`. For example: `cabal repl exe:simple-payment-pay`.
+
+## Homework
+
+- [Lecture 4](code/src/lecture04/homework04.hs)
