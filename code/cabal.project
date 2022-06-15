@@ -68,9 +68,8 @@ source-repository-package
 -- of plutus-apps are also updated
 source-repository-package
   type: git
-  -- same as for marlowe-pioneers in marlowe-cardano
-  location: https://github.com/paluh/plutus-apps
-  tag: 5bcc67b3b2eb219a54b90c24920a72c9266190a2
+  location: https://github.com/input-output-hk/plutus-apps
+  tag: 3c70df0616195285945992554469da4c74dc2aa2
   subdir:
     freer-extras
     playground-common
