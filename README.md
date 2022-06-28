@@ -20,3 +20,4 @@
 ## Homework
 
 - [Lecture 4](code/src/lecture04/homework04.hs)
+- [Lecture 7](homework/lecture07.md)
