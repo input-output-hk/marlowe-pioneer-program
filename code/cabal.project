@@ -58,9 +58,10 @@ package cardano-wallet-core-integration
 source-repository-package
   type: git
   location: https://github.com/input-output-hk/marlowe-cardano
-  tag: 452632c2bd2c7368e676ef8f176ba2c916afa0f3
+  tag: 8d1e3f6daacf9fbd3ad4c46ef9b6745954c6843a
   subdir:
     marlowe
+    marlowe-contracts
 
 -- A lot of marlowe dependencies have to be syncronized with the dependencies of
 -- plutus-apps. If you update plutus-apps, please make sure that all dependencies
@@ -68,7 +69,7 @@ source-repository-package
 source-repository-package
   type: git
   location: https://github.com/input-output-hk/plutus-apps
-  tag: f3278f5d6db2476174985ef5ea851a2dbd57f0b7
+  tag: 3c70df0616195285945992554469da4c74dc2aa2
   subdir:
     freer-extras
     playground-common
