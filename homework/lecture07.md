@@ -26,5 +26,5 @@
 
 👉 [Transcript of lecture](https://github.com/input-output-hk/marlowe-cardano/blob/mpp-cli-lectures/marlowe-cli/lectures/05-marlowe-cli-pab.ipynb)
 
-1.  Repeat the Marlowe backend tutorial <https://github.com/input-output-hk/marlowe-cardano/blob/mpp-cli-lectures/marlowe-cli/doc/backend-tutorial.md (Links to an external site.)>.
+1.  Repeat the Marlowe backend tutorial <https://github.com/input-output-hk/marlowe-cardano/blob/mpp-cli-lectures/marlowe-cli/doc/pab-tutorial.md (Links to an external site.)>.
 2.  Run the Marlowe backend tests <https://github.com/input-output-hk/marlowe-cardano/blob/mpp-cli-lectures/marlowe-cli/run-tests.sh (Links to an external site.)>.
